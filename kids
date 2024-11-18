@@ -1,0 +1,1 @@
+python3 decrypt.py key.bin cipher.bin decrypted.txt
